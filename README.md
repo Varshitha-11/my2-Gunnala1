@@ -1,3 +1,3 @@
 # my2-Gunnala1
-#Varshitha 
-######Paris 
+# Heading level 1 is largest
+###### Heading level 6 is smallest
