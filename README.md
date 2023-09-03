@@ -3,7 +3,7 @@
 I love to visiting **Pairs** . The places is **Scenery** is beautiful.
 ---
 
-Pairs
+Vacation spot
 # Ordered list of activities 
 Activities 
  1. Scuba Diving and Snorkeling
@@ -12,9 +12,10 @@ Activities
 
  ---
  # Unordered list of food
- Pairs
+ Food
  * Biryani and Raita
  * Sushi and Tempura
  * Sushi and Sashimi
 
 ---
+
